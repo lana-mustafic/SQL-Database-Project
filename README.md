@@ -48,6 +48,14 @@ SQL-database-Project/
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this work with proper credit.
+
+See the [LICENSE](./LICENSE) file for full legal terms.
+
+
 ## 👩‍💻 Author
 
 **Lana Mustafić**  
