@@ -14,6 +14,8 @@ This project is a collection of **advanced SQL queries**, **data manipulation te
 
 ## 📁 Project Structure
 
+```
+
 SQL-database-Project/
 │
 ├── scripts/             # All SQL queries by topic and exam section
@@ -22,7 +24,7 @@ SQL-database-Project/
 ├── LICENSE              # License info 
 └── README.md            # You're here!
 
-
+```
 
 ---
 
