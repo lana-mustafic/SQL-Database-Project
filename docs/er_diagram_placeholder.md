@@ -8,7 +8,7 @@ This document provides an overview of the entity-relationship diagrams (ERDs) re
 
 The following ER diagram illustrates the core structure of the custom `OrdersManagementDB` used in this project. It contains the key entities and relationships needed to support the advanced SQL queries implemented.
 
-![OrdersManagementDB ERD](docs/reference_diagrams/er_diagram.png)
+![OrdersManagementDB ERD](./docs/reference_diagrams/er_diagram.png)
 
 > ### Relationships:
 > - One employee (`Employees`) can create many orders (`Orders`)
@@ -25,8 +25,8 @@ The project also includes advanced SQL queries against industry-standard sample 
 
 | Sample Database   | Format | Path or Link |
 |-------------------|--------|--------------|
-| Northwind         | PNG    | [northwind.png](docs/reference_diagrams/northwind.png)|
-| Pubs              | PNG    | [pubs.png](docs/reference_diagrams/pubs.png) |
+| Northwind         | PNG    | [northwind.png](./docs/reference_diagrams/northwind.png)|
+| Pubs              | PNG    | [pubs.png](./docs/reference_diagrams/pubs.png) |
 | AdventureWorks2017| PDF    | [Official Diagram (Microsoft Docs)](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure) |
 
 > Note: These diagrams are provided for contextual understanding only. They were not created by the author but sourced from Microsoft or community resources.
