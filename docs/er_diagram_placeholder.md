@@ -25,8 +25,8 @@ The project also includes advanced SQL queries against industry-standard sample 
 
 | Sample Database   | Format | Path or Link |
 |-------------------|--------|--------------|
-| Northwind         | PNG    | `./reference_diagrams/northwind.png` |
-| Pubs              | PNG    | `./reference_diagrams/pubs.png` |
+| Northwind         | PNG    | `[northwind.png](docs/reference_diagrams/northwind.png)` |
+| Pubs              | PNG    | `[pubs.png](docs/reference_diagrams/pubs.png)` |
 | AdventureWorks2017| PDF    | [Official Diagram (Microsoft Docs)](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure) |
 
 > Note: These diagrams are provided for contextual understanding only. They were not created by the author but sourced from Microsoft or community resources.
